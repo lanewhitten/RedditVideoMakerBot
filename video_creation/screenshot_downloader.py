@@ -15,7 +15,7 @@ console = Console()
 storymode = False
 
 
-def download_screenshots_of_reddit_posts(reddit_object, screenshot_num, theme):
+def download_screenshots_of_reddit_posts(reddit_object, screenshot_num):
     """Downloads screenshots of reddit posts as they are seen on the web.
 
     Args:
